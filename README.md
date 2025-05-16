@@ -7,7 +7,7 @@ Hello, I'm Catherine. I'm an undergraduate majoring in Data Analytics at THE Ohi
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:catherine.ling04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catherineling-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-ling/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/catherine-ling)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about-dot-me&logoColor=white)](https://yourportfolio.com) -->
 
