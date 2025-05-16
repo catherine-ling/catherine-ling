@@ -2,6 +2,8 @@
 
 Hello, I'm Catherine. I'm an undergraduate majoring in Data Analytics at THE Ohio State University, graduating in May 2026. I specialize in Business Analytics and am passionate about solving real-world problems through data.
 
+## [Check Out My Project Portfolio!](https://github.com/catherine-ling/portfolio)
+
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:catherine.ling04@gmail.com)
