@@ -2,7 +2,7 @@
 
 Hello, I'm Catherine. I'm an undergraduate majoring in Data Analytics at THE Ohio State University, graduating in May 2026. I specialize in Business Analytics and am passionate about solving real-world problems through data.
 
-## Projects
+## 📂 Projects
 Check out my [portfolio](https://github.com/catherine-ling/portfolio), where I showcase some of my work!
 
 ## 🛠️ Tech Stack
@@ -20,7 +20,7 @@ Check out my [portfolio](https://github.com/catherine-ling/portfolio), where I s
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
-## Internships
+## 🌱 Internships
 
 **American Honda Motor Company** — *Intern, Indirect Strategic Sourcing (IT)*  
 *May 2025 – Aug 2025*  
@@ -34,7 +34,7 @@ Check out my [portfolio](https://github.com/catherine-ling/portfolio), where I s
 - Developed end-to-end reporting pipelines from unstructured data, improving management and usage by 30%.  
 - Conducted ad-hoc analysis to support IT, engineering, and management teams.
 
-## Work Experience
+## 💼 Other Work Experience
 
 **Fisher College of Business, The Ohio State University** — *Business Analytics Consultant*  
 *Aug 2024 – Apr 2025*  
